@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "stom idle"
+		},
+		{
+			"offsets": [
+				4,
+				-1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "stom up"
+		},
+		{
+			"offsets": [
+				-20,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "stom down"
+		},
+		{
+			"offsets": [
+				46,
+				-2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "stom left"
+		},
+		{
+			"offsets": [
+				-27,
+				-1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "stom right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stom",
+	"position": [
+		-150,
+		-130
+	],
+	"healthicon": "tommy",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		60,
+		95
+	],
+	"camera_position": [
+		330,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dreamxd.png"><SubTexture name="dreamxd walk0000" x="910" y="0" width="364" height="339" frameX="-546" frameY="-194" frameWidth="1280" frameHeight="720" />
+<SubTexture name="dreamxd walk0001" x="0" y="707" width="316" height="335" frameX="-584" frameY="-194" frameWidth="1280" frameHeight="720" />
+<SubTexture name="dreamxd walk0002" x="910" y="339" width="307" height="339" frameX="-585" frameY="-193" frameWidth="1280" frameHeight="720" />
+<SubTexture name="dreamxd walk0003" x="304" y="0" width="291" height="354" frameX="-592" frameY="-193" frameWidth="1280" frameHeight="720" />
+<SubTexture name="dreamxd walk0004" x="314" y="358" width="337" height="347" frameX="-565" frameY="-194" frameWidth="1280" frameHeight="720" />
+<SubTexture name="dreamxd walk0005" x="0" y="358" width="314" height="349" frameX="-609" frameY="-194" frameWidth="1280" frameHeight="720" />
+<SubTexture name="dreamxd walk0006" x="595" y="0" width="315" height="352" frameX="-571" frameY="-195" frameWidth="1280" frameHeight="720" />
+<SubTexture name="dreamxd walk0007" x="0" y="0" width="304" height="358" frameX="-593" frameY="-195" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

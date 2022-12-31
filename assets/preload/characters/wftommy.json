@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				340
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "wftommy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				340
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "wftommy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				340
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "wftommy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				174,
+				338
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "wftommy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				193,
+				339
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "wftommy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				340
+			],
+			"anim": "speak",
+			"fps": 12,
+			"name": "wftommy bitch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				179,
+				340
+			],
+			"anim": "ah",
+			"fps": 12,
+			"name": "wftommy interrupt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wftommy",
+	"position": [
+		-30,
+		340
+	],
+	"healthicon": "tommy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		95
+	],
+	"camera_position": [
+		-90,
+		-410
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

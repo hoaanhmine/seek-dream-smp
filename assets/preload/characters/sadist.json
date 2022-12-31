@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				333,
+				440
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "sadist idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				283,
+				429
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sadist right"
+		},
+		{
+			"offsets": [
+				350,
+				350
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sadist down"
+		},
+		{
+			"offsets": [
+				334,
+				440
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sadist up"
+		},
+		{
+			"offsets": [
+				426,
+				420
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sadist left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sadist",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "sadist",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		80
+	],
+	"camera_position": [
+		-160,
+		-390
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

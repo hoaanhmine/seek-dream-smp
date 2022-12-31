@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				315,
+				350
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "wfdream idle"
+		},
+		{
+			"offsets": [
+				300,
+				350
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "wfdream down"
+		},
+		{
+			"offsets": [
+				294,
+				350
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "wfdream up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				346,
+				350
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "wfdream left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				273,
+				349
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "wfdream right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wfdream",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "dream",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		170
+	],
+	"camera_position": [
+		-400,
+		-340
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

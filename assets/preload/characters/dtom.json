@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "dtom up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "dtom down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "dtom left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "dtom right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "dtom idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dtom",
+	"position": [
+		-150,
+		-130
+	],
+	"healthicon": "tommyandtubbo",
+	"flip_x": true,
+	"healthbar_colors": [
+		95,
+		100,
+		155
+	],
+	"camera_position": [
+		390,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="penis.png"><SubTexture name="penis idle0000" x="1501" y="1364" width="499" height="659" frameX="-204" frameY="-177" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis idle0001" x="502" y="1364" width="499" height="661" frameX="-204" frameY="-175" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis idle0002" x="1001" y="1364" width="500" height="660" frameX="-203" frameY="-176" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis idle0003" x="1473" y="670" width="501" height="663" frameX="-202" frameY="-173" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis idle0004" x="0" y="1364" width="502" height="662" frameX="-201" frameY="-174" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis idle0005" x="0" y="1364" width="502" height="662" frameX="-201" frameY="-174" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis idle0006" x="0" y="1364" width="502" height="662" frameX="-201" frameY="-174" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis left0000" x="471" y="2026" width="623" height="645" frameX="-86" frameY="-196" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis left0001" x="2056" y="0" width="622" height="647" frameX="-87" frameY="-194" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis left0002" x="2056" y="647" width="617" height="647" frameX="-91" frameY="-194" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis left0003" x="2056" y="647" width="617" height="647" frameX="-91" frameY="-194" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis up0000" x="0" y="0" width="486" height="691" frameX="-213" frameY="-146" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis up0001" x="486" y="0" width="491" height="691" frameX="-209" frameY="-146" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis up0002" x="977" y="0" width="496" height="687" frameX="-207" frameY="-149" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis up0003" x="977" y="0" width="496" height="687" frameX="-207" frameY="-149" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis right0000" x="0" y="691" width="578" height="673" frameX="-216" frameY="-164" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis right0001" x="578" y="691" width="582" height="673" frameX="-216" frameY="-164" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis right0002" x="1473" y="0" width="583" height="670" frameX="-217" frameY="-167" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis right0003" x="1473" y="0" width="583" height="670" frameX="-217" frameY="-167" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis down0000" x="2678" y="0" width="526" height="590" frameX="-197" frameY="-245" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis down0001" x="2114" y="2026" width="537" height="593" frameX="-189" frameY="-242" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis down0002" x="1572" y="2026" width="542" height="595" frameX="-185" frameY="-240" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis down0003" x="1572" y="2026" width="542" height="595" frameX="-185" frameY="-240" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis atk0000" x="1094" y="2026" width="478" height="645" frameX="-231" frameY="-196" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis atk0001" x="2056" y="1294" width="469" height="647" frameX="-239" frameY="-194" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis atk0002" x="0" y="2026" width="471" height="647" frameX="-238" frameY="-194" frameWidth="920" frameHeight="920" />
+<SubTexture name="penis atk0003" x="0" y="2026" width="471" height="647" frameX="-238" frameY="-194" frameWidth="920" frameHeight="920" />
+</TextureAtlas>

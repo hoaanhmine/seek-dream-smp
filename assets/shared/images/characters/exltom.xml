@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="exltom.png"><SubTexture name="exltom idle0000" x="2226" y="0" width="609" height="740" frameX="-99" frameY="-80" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom idle0001" x="1627" y="0" width="599" height="746" frameX="-104" frameY="-74" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom idle0002" x="581" y="767" width="585" height="757" frameX="-113" frameY="-63" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom idle0003" x="0" y="767" width="581" height="759" frameX="-115" frameY="-61" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom idle0004" x="0" y="767" width="581" height="759" frameX="-115" frameY="-61" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom down0000" x="608" y="1526" width="613" height="729" frameX="-102" frameY="-91" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom down0001" x="0" y="1526" width="608" height="733" frameX="-104" frameY="-87" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom down0002" x="2226" y="740" width="600" height="736" frameX="-107" frameY="-84" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom up0000" x="0" y="0" width="529" height="767" frameX="-152" frameY="-53" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom up0001" x="529" y="0" width="547" height="766" frameX="-138" frameY="-54" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom up0002" x="1076" y="0" width="551" height="764" frameX="-136" frameY="-56" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom left0000" x="2835" y="0" width="623" height="721" frameX="-66" frameY="-99" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom left0001" x="1823" y="1526" width="612" height="724" frameX="-76" frameY="-96" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom left0002" x="1221" y="1526" width="602" height="726" frameX="-84" frameY="-94" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom right0000" x="2835" y="1442" width="516" height="709" frameX="-221" frameY="-111" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom right0001" x="2835" y="721" width="510" height="721" frameX="-220" frameY="-99" frameWidth="820" frameHeight="820" />
+<SubTexture name="exltom right0002" x="1627" y="746" width="500" height="729" frameX="-222" frameY="-91" frameWidth="820" frameHeight="820" />
+</TextureAtlas>

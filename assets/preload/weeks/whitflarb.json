@@ -1,0 +1,32 @@
+{
+	"storyName": "white flags (l'manberg war)",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "whitflarb",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"white-flags",
+			"dream",
+			[
+				215,
+				175,
+				95
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 1"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				112,
+				339
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "exltom idle"
+		},
+		{
+			"offsets": [
+				92,
+				339
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "exltom right"
+		},
+		{
+			"offsets": [
+				132,
+				339
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "exltom left"
+		},
+		{
+			"offsets": [
+				112,
+				339
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "exltom up"
+		},
+		{
+			"offsets": [
+				112,
+				326
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "exltom down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/exltom",
+	"position": [
+		-50,
+		290
+	],
+	"healthicon": "tommy",
+	"flip_x": true,
+	"healthbar_colors": [
+		115,
+		60,
+		95
+	],
+	"camera_position": [
+		-80,
+		-330
+	],
+	"sing_duration": 4.3,
+	"scale": 1.2
+}

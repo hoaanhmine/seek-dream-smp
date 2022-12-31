@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dubbo.png"><SubTexture name="dubbo idle0000" x="1357" y="2590" width="690" height="812" frameX="-125" frameY="-97" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo idle0001" x="671" y="2590" width="686" height="817" frameX="-125" frameY="-93" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo idle0002" x="0" y="2590" width="671" height="826" frameX="-135" frameY="-84" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo idle0003" x="3376" y="0" width="669" height="830" frameX="-136" frameY="-80" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo idle0004" x="3376" y="0" width="669" height="830" frameX="-136" frameY="-80" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo down0000" x="4045" y="0" width="734" height="794" frameX="-105" frameY="-112" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo down0001" x="2752" y="2590" width="710" height="804" frameX="-112" frameY="-102" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo down0002" x="2047" y="2590" width="705" height="806" frameX="-114" frameY="-100" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo down0003" x="2047" y="2590" width="705" height="806" frameX="-114" frameY="-100" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo left0000" x="782" y="1744" width="689" height="839" frameX="-105" frameY="-62" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo left0001" x="1471" y="1744" width="685" height="838" frameX="-107" frameY="-63" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo left0002" x="2156" y="1744" width="683" height="837" frameX="-108" frameY="-64" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo left0003" x="2156" y="1744" width="683" height="837" frameX="-108" frameY="-64" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo right0000" x="0" y="895" width="660" height="849" frameX="-184" frameY="-71" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo right0001" x="1923" y="0" width="657" height="847" frameX="-189" frameY="-72" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo right0002" x="2580" y="847" width="654" height="846" frameX="-192" frameY="-73" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo right0003" x="2580" y="847" width="654" height="846" frameX="-192" frameY="-73" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo up0000" x="0" y="0" width="635" height="895" frameX="-150" frameY="-25" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo up0001" x="635" y="0" width="645" height="882" frameX="-147" frameY="-38" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo up0002" x="1280" y="0" width="643" height="877" frameX="-152" frameY="-43" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo up0003" x="1280" y="0" width="643" height="877" frameX="-152" frameY="-43" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo def0000" x="660" y="895" width="802" height="849" frameX="-42" frameY="-71" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo def0001" x="2580" y="0" width="796" height="847" frameX="-50" frameY="-72" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo def0002" x="0" y="1744" width="782" height="846" frameX="-64" frameY="-73" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo def0003" x="0" y="1744" width="782" height="846" frameX="-64" frameY="-73" frameWidth="920" frameHeight="920" />
+<SubTexture name="dubbo def0004" x="0" y="1744" width="782" height="846" frameX="-64" frameY="-73" frameWidth="920" frameHeight="920" />
+</TextureAtlas>

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				112,
+				339
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "cutscene",
+			"indices": [],
+			"name": "will cutscene a"
+		},
+		{
+			"offsets": [
+				112,
+				339
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "will cutscene a"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/will cutscene",
+	"position": [
+		-130,
+		340
+	],
+	"healthicon": "will",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		38,
+		115
+	],
+	"camera_position": [
+		290,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

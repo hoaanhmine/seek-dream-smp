@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				72,
+				339
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "wfwill right"
+		},
+		{
+			"offsets": [
+				142,
+				339
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "wfwill left"
+		},
+		{
+			"offsets": [
+				112,
+				339
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "wfwill up"
+		},
+		{
+			"offsets": [
+				112,
+				336
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "wfwill down"
+		},
+		{
+			"offsets": [
+				112,
+				337
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "talk",
+			"indices": [],
+			"name": "wfwill talk"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				339
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "wfwill idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				339
+			],
+			"anim": "idle-alt",
+			"fps": 12,
+			"name": "wfwill idle-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				339
+			],
+			"anim": "speak",
+			"fps": 12,
+			"name": "wfwill talk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wfwill",
+	"position": [
+		-70,
+		340
+	],
+	"healthicon": "will",
+	"flip_x": true,
+	"healthbar_colors": [
+		74,
+		40,
+		115
+	],
+	"camera_position": [
+		260,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

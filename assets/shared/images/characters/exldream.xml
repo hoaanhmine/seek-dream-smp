@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="exldream.png"><SubTexture name="exldream nothing0000" x="0" y="0" width="820" height="820" frameX="0" frameY="0" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream nothing0001" x="0" y="0" width="820" height="820" frameX="0" frameY="0" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream appear0000" x="2150" y="642" width="328" height="640" frameX="-260" frameY="-120" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream appear0001" x="954" y="1474" width="322" height="646" frameX="-264" frameY="-114" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream appear0002" x="377" y="820" width="321" height="652" frameX="-264" frameY="-109" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream appear0003" x="1477" y="650" width="319" height="649" frameX="-264" frameY="-111" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream appear0004" x="1831" y="0" width="319" height="649" frameX="-264" frameY="-111" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream appear0005" x="1831" y="0" width="319" height="649" frameX="-264" frameY="-111" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream appear0006" x="1831" y="0" width="319" height="649" frameX="-264" frameY="-111" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream idle0000" x="2150" y="1282" width="328" height="640" frameX="-260" frameY="-120" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream idle0001" x="1276" y="1474" width="322" height="646" frameX="-264" frameY="-114" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream idle0002" x="0" y="1474" width="320" height="649" frameX="-264" frameY="-111" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream idle0003" x="1831" y="0" width="319" height="649" frameX="-264" frameY="-111" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream idle0004" x="1831" y="0" width="319" height="649" frameX="-264" frameY="-111" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream down0000" x="2479" y="0" width="332" height="635" frameX="-256" frameY="-125" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream down0001" x="2150" y="0" width="329" height="642" frameX="-257" frameY="-118" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream down0002" x="320" y="1474" width="324" height="648" frameX="-261" frameY="-112" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream down0003" x="320" y="1474" width="324" height="648" frameX="-261" frameY="-112" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream left0000" x="0" y="820" width="377" height="654" frameX="-208" frameY="-107" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream left0001" x="698" y="820" width="360" height="652" frameX="-223" frameY="-109" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream left0002" x="1477" y="0" width="354" height="650" frameX="-228" frameY="-111" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream left0003" x="1477" y="0" width="354" height="650" frameX="-228" frameY="-111" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream right0000" x="1831" y="649" width="306" height="648" frameX="-287" frameY="-112" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream right0001" x="1598" y="1474" width="310" height="646" frameX="-281" frameY="-114" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream right0002" x="644" y="1474" width="310" height="648" frameX="-275" frameY="-112" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream right0003" x="644" y="1474" width="310" height="648" frameX="-275" frameY="-112" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream up0000" x="820" y="0" width="333" height="667" frameX="-239" frameY="-95" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream up0001" x="1153" y="0" width="324" height="658" frameX="-249" frameY="-104" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream up0002" x="1058" y="820" width="325" height="652" frameX="-252" frameY="-109" frameWidth="820" frameHeight="820" />
+<SubTexture name="exldream up0003" x="1058" y="820" width="325" height="652" frameX="-252" frameY="-109" frameWidth="820" frameHeight="820" />
+</TextureAtlas>

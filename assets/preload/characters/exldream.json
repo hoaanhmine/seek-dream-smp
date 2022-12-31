@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				317,
+				350
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "exldream nothing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				280,
+				370
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "exldream idle"
+		},
+		{
+			"offsets": [
+				281,
+				370
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "exldream down"
+		},
+		{
+			"offsets": [
+				274,
+				370
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "exldream up"
+		},
+		{
+			"offsets": [
+				276,
+				370
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "exldream left"
+		},
+		{
+			"offsets": [
+				283,
+				369
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "exldream right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				370
+			],
+			"anim": "appear",
+			"fps": 12,
+			"name": "exldream appear",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-appear",
+			"fps": 12,
+			"name": "exldream appear",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/exldream",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dream",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		175,
+		149
+	],
+	"camera_position": [
+		-510,
+		-330
+	],
+	"sing_duration": 4.2,
+	"scale": 1
+}

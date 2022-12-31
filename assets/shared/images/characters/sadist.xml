@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sadist.png"><SubTexture name="sadist idle0000" x="2385" y="632" width="582" height="626" frameX="-163" frameY="-188" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0001" x="0" y="2110" width="591" height="631" frameX="-157" frameY="-183" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0002" x="2385" y="0" width="589" height="632" frameX="-157" frameY="-182" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0003" x="1758" y="1475" width="586" height="634" frameX="-158" frameY="-180" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0004" x="0" y="1475" width="586" height="635" frameX="-158" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0005" x="1742" y="659" width="586" height="636" frameX="-158" frameY="-178" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0006" x="586" y="1475" width="586" height="635" frameX="-158" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0007" x="1172" y="1475" width="586" height="635" frameX="-158" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0008" x="0" y="1475" width="586" height="635" frameX="-158" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0009" x="1742" y="659" width="586" height="636" frameX="-158" frameY="-178" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0010" x="586" y="1475" width="586" height="635" frameX="-158" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0011" x="1172" y="1475" width="586" height="635" frameX="-158" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0012" x="0" y="1475" width="586" height="635" frameX="-158" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0013" x="1742" y="659" width="586" height="636" frameX="-158" frameY="-178" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0014" x="586" y="1475" width="586" height="635" frameX="-158" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0015" x="1172" y="1475" width="586" height="635" frameX="-158" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0016" x="0" y="1475" width="586" height="635" frameX="-158" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0017" x="1742" y="659" width="586" height="636" frameX="-158" frameY="-178" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0018" x="586" y="1475" width="586" height="635" frameX="-158" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist idle0019" x="1172" y="1475" width="586" height="635" frameX="-158" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist left0000" x="1124" y="2110" width="551" height="542" frameX="-207" frameY="-185" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist left0001" x="591" y="2110" width="533" height="554" frameX="-220" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist left0002" x="2385" y="1258" width="523" height="560" frameX="-226" frameY="-177" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist left0003" x="2385" y="1258" width="523" height="560" frameX="-226" frameY="-177" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist right0000" x="1742" y="0" width="643" height="659" frameX="-217" frameY="-183" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist right0001" x="0" y="811" width="637" height="664" frameX="-212" frameY="-173" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist right0002" x="637" y="811" width="637" height="660" frameX="-208" frameY="-167" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist right0003" x="637" y="811" width="637" height="660" frameX="-208" frameY="-167" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist down0000" x="2974" y="0" width="534" height="428" frameX="-178" frameY="-273" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist down0001" x="2194" y="2110" width="527" height="433" frameX="-182" frameY="-268" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist down0002" x="1675" y="2110" width="519" height="437" frameX="-187" frameY="-263" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist down0003" x="1675" y="2110" width="519" height="437" frameX="-187" frameY="-263" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist up0000" x="0" y="0" width="568" height="811" frameX="-196" frameY="-6" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist up0001" x="568" y="0" width="583" height="792" frameX="-189" frameY="-19" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist up0002" x="1151" y="0" width="591" height="778" frameX="-183" frameY="-26" frameWidth="900" frameHeight="900" />
+<SubTexture name="sadist up0003" x="1151" y="0" width="591" height="778" frameX="-183" frameY="-26" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

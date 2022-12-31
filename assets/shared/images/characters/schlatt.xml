@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="schlatt.png"><SubTexture name="schlatt dance right0000" x="1705" y="0" width="340" height="655" frameX="-155" frameY="-165" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt dance right0001" x="1287" y="723" width="330" height="657" frameX="-155" frameY="-163" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt dance right0002" x="321" y="723" width="322" height="664" frameX="-156" frameY="-156" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt dance right0003" x="643" y="723" width="322" height="664" frameX="-156" frameY="-156" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt dance left0000" x="1383" y="0" width="322" height="671" frameX="-144" frameY="-149" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt dance left0001" x="0" y="723" width="321" height="668" frameX="-151" frameY="-152" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt dance left0002" x="965" y="723" width="322" height="664" frameX="-156" frameY="-156" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt dance left0003" x="643" y="723" width="322" height="664" frameX="-156" frameY="-156" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt right0000" x="2639" y="0" width="603" height="629" frameX="-148" frameY="-191" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt right0001" x="2045" y="0" width="594" height="637" frameX="-148" frameY="-183" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt right0002" x="1066" y="1391" width="582" height="644" frameX="-149" frameY="-176" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt left0000" x="0" y="1391" width="363" height="652" frameX="-109" frameY="-168" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt left0001" x="363" y="1391" width="354" height="650" frameX="-117" frameY="-170" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt left0002" x="717" y="1391" width="349" height="649" frameX="-121" frameY="-171" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt up0000" x="0" y="0" width="472" height="723" frameX="-56" frameY="-97" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt up0001" x="472" y="0" width="458" height="719" frameX="-71" frameY="-101" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt up0002" x="930" y="0" width="453" height="716" frameX="-81" frameY="-104" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt down0000" x="2045" y="637" width="426" height="565" frameX="-142" frameY="-255" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt down0001" x="2639" y="1206" width="423" height="574" frameX="-145" frameY="-246" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt down0002" x="2639" y="629" width="418" height="577" frameX="-152" frameY="-243" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0000" x="560" y="2043" width="541" height="540" frameX="-116" frameY="-280" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0001" x="2045" y="1202" width="551" height="560" frameX="-127" frameY="-260" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0002" x="0" y="2043" width="560" height="555" frameX="-128" frameY="-265" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0003" x="1036" y="2598" width="532" height="512" frameX="-112" frameY="-308" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0004" x="1101" y="2043" width="508" height="521" frameX="-128" frameY="-299" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0005" x="1036" y="2598" width="532" height="512" frameX="-112" frameY="-308" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0006" x="2628" y="2043" width="512" height="519" frameX="-126" frameY="-301" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0007" x="1101" y="2043" width="508" height="521" frameX="-128" frameY="-299" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0008" x="1036" y="2598" width="532" height="512" frameX="-112" frameY="-308" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0009" x="1101" y="2043" width="508" height="521" frameX="-128" frameY="-299" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0010" x="1101" y="2043" width="508" height="521" frameX="-128" frameY="-299" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0011" x="1568" y="2598" width="539" height="510" frameX="-113" frameY="-310" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0012" x="508" y="2598" width="528" height="516" frameX="-116" frameY="-304" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0013" x="2117" y="2043" width="511" height="520" frameX="-127" frameY="-300" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0014" x="1101" y="2043" width="508" height="521" frameX="-128" frameY="-299" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0015" x="0" y="2598" width="508" height="519" frameX="-126" frameY="-301" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0016" x="1609" y="2043" width="508" height="521" frameX="-128" frameY="-299" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0017" x="1609" y="2043" width="508" height="521" frameX="-128" frameY="-299" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0018" x="0" y="2598" width="508" height="519" frameX="-126" frameY="-301" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0019" x="1609" y="2043" width="508" height="521" frameX="-128" frameY="-299" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0020" x="1609" y="2043" width="508" height="521" frameX="-128" frameY="-299" frameWidth="820" frameHeight="820" />
+<SubTexture name="schlatt laugh0021" x="1609" y="2043" width="508" height="521" frameX="-128" frameY="-299" frameWidth="820" frameHeight="820" />
+</TextureAtlas>

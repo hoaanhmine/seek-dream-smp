@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stom.png"><SubTexture name="stom idle0000" x="1287" y="1586" width="670" height="731" frameX="-128" frameY="-169" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom idle0001" x="636" y="1586" width="651" height="736" frameX="-139" frameY="-164" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom idle0002" x="0" y="1586" width="636" height="743" frameX="-149" frameY="-157" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom idle0003" x="1770" y="0" width="630" height="744" frameX="-154" frameY="-156" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom up0000" x="0" y="0" width="576" height="807" frameX="-207" frameY="-93" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom up0001" x="576" y="0" width="590" height="801" frameX="-200" frameY="-99" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom up0002" x="1166" y="0" width="604" height="793" frameX="-193" frameY="-107" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom up0003" x="1166" y="0" width="604" height="793" frameX="-193" frameY="-107" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom down0000" x="1430" y="2329" width="688" height="686" frameX="-111" frameY="-214" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom down0001" x="2400" y="1411" width="672" height="690" frameX="-122" frameY="-210" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom down0002" x="2400" y="717" width="660" height="694" frameX="-130" frameY="-206" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom down0003" x="2400" y="717" width="660" height="694" frameX="-130" frameY="-206" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom left0000" x="709" y="2329" width="721" height="705" frameX="-66" frameY="-195" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom left0001" x="0" y="2329" width="709" height="713" frameX="-78" frameY="-187" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom left0002" x="2400" y="0" width="703" height="717" frameX="-83" frameY="-183" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom left0003" x="2400" y="0" width="703" height="717" frameX="-83" frameY="-183" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom right0000" x="1100" y="807" width="551" height="770" frameX="-342" frameY="-129" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom right0001" x="550" y="807" width="550" height="777" frameX="-337" frameY="-123" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom right0002" x="0" y="807" width="550" height="779" frameX="-323" frameY="-121" frameWidth="900" frameHeight="900" />
+<SubTexture name="stom right0003" x="0" y="807" width="550" height="779" frameX="-323" frameY="-121" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

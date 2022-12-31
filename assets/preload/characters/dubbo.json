@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				279,
+				100
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "dubbo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				284,
+				98
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "dubbo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				283,
+				100
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "dubbo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				276,
+				96
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "dubbo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				263,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "dubbo right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				90
+			],
+			"anim": "defend",
+			"fps": 12,
+			"name": "dubbo def",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dubbo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dream",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		249,
+		249
+	],
+	"camera_position": [
+		-950,
+		-230
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

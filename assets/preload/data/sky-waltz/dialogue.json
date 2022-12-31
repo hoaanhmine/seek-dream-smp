@@ -1,0 +1,13 @@
+{
+	"dialogue": 
+	[
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Press GOLDEN NOTES to heal. Press SHIELD NOTES to defend from Dream's attacks."
+		}
+	]
+}

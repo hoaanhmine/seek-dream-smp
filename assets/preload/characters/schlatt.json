@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "schlatt dance left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "schlatt dance right"
+		},
+		{
+			"offsets": [
+				4,
+				9
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "schlatt up"
+		},
+		{
+			"offsets": [
+				-20,
+				10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "schlatt down"
+		},
+		{
+			"offsets": [
+				36,
+				18
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "schlatt left"
+		},
+		{
+			"offsets": [
+				3,
+				29
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "schlatt right"
+		},
+		{
+			"offsets": [
+				23,
+				30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "laugh",
+			"indices": [],
+			"name": "schlatt laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/schlatt",
+	"position": [
+		-70,
+		-20
+	],
+	"healthicon": "schlatt",
+	"flip_x": false,
+	"healthbar_colors": [
+		62,
+		58,
+		119
+	],
+	"camera_position": [
+		30,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

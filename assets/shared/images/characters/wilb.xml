@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wilb.png"><SubTexture name="wilb idle0000" x="1074" y="1441" width="551" height="683" frameX="-172" frameY="-137" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb idle0001" x="0" y="1441" width="537" height="688" frameX="-179" frameY="-132" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb idle0002" x="1030" y="741" width="524" height="696" frameX="-189" frameY="-124" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb idle0003" x="0" y="741" width="515" height="700" frameX="-196" frameY="-120" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb idle0004" x="0" y="741" width="515" height="700" frameX="-196" frameY="-120" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb idle-alt0000" x="1625" y="1441" width="551" height="683" frameX="-172" frameY="-137" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb idle-alt0001" x="537" y="1441" width="537" height="688" frameX="-179" frameY="-132" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb idle-alt0002" x="1559" y="0" width="524" height="696" frameX="-189" frameY="-124" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb idle-alt0003" x="515" y="741" width="515" height="700" frameX="-196" frameY="-120" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb idle-alt0004" x="515" y="741" width="515" height="700" frameX="-196" frameY="-120" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb left0000" x="555" y="2129" width="545" height="668" frameX="-154" frameY="-152" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb left0001" x="1100" y="2129" width="544" height="666" frameX="-155" frameY="-154" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb left0002" x="2618" y="680" width="535" height="669" frameX="-163" frameY="-151" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb left0003" x="2618" y="680" width="535" height="669" frameX="-163" frameY="-151" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb right0000" x="1644" y="2129" width="526" height="659" frameX="-211" frameY="-161" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb right0001" x="2083" y="689" width="520" height="664" frameX="-210" frameY="-156" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb right0002" x="2618" y="1349" width="516" height="666" frameX="-210" frameY="-154" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb up0000" x="0" y="0" width="520" height="741" frameX="-260" frameY="-79" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb up0001" x="520" y="0" width="520" height="737" frameX="-255" frameY="-83" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb up0002" x="1040" y="0" width="519" height="735" frameX="-250" frameY="-85" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb down0000" x="0" y="2129" width="555" height="674" frameX="-173" frameY="-146" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb down0001" x="2618" y="0" width="542" height="680" frameX="-178" frameY="-140" frameWidth="820" frameHeight="820" />
+<SubTexture name="wilb down0002" x="2083" y="0" width="535" height="689" frameX="-184" frameY="-131" frameWidth="820" frameHeight="820" />
+</TextureAtlas>
